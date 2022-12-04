@@ -17,7 +17,7 @@
     --p-font:0.9rem;
 }
 
-*::selection {
+::selection {
     background: var(--main-color);
     color: #090909; 
 }
