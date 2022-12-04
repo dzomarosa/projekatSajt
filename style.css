@@ -127,7 +127,7 @@ section{
 .heading h2{
     font-size: var(--h2-font);
 }
-.menu-container{
+.gallery-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220p, auto));
     grid-gap: 1.5rem;
