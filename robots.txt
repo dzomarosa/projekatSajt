@@ -1,0 +1,5 @@
+user-agent: *
+Disallow: /slike/
+
+sitemap: https://dzomarosa.github.io/projekatSajt/sitemap.xml
+
