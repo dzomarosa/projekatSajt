@@ -203,8 +203,7 @@ width: 190px;
 }
 .footer{
     padding: 10px 0;
-    background-image: url(slike/footer.jpg);
-    background-repeat: no-repeat;
+    
 }
 .col{
     width: 25%;
